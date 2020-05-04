@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+}
+canvas {
+  position: fixed;
+}
+.load-status {
+  position: fixed;
+  background-color: white;
+  color: #444;
+  width: 100vw;
+  height: 100vh;
+  line-height: 100vh;
+  text-align: center;
+}
+.load-status.failed {
+  color: red;
+}
+
+
+/*# sourceMappingURL=/drone-crisis.9ad09f98.css.map */
